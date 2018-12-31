@@ -159,6 +159,8 @@ function parseAssignmentExpression(assignExp, env) {
     else
         return null;
 
+
+    
 }
 function AssignmentLeftMemberExp(assignExp, env, name){
 
